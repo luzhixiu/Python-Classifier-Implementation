@@ -1,0 +1,19 @@
+Origianl plan:
+Class 3(0 1 2)
+Method 3(SVM,Naive Bayes,Random Forest)
+Data sets:
+Iris full set(150 samples)
+15  balanced unbalanced
+21  balanced unbalanced 
+27  balanced unbalanced
+
+Noise Level:3(10,15,20)   (we choose 20 )
+
+featured selection method:6
+
+
+for each data set: {with noise                   *************** 
+		   {without noise                ***************  
+		   {noise + featureSelection(6)	 ***************
+
+
